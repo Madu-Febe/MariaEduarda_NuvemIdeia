@@ -1,0 +1,132 @@
+
+@media only screen and (min-width: 800px)
+{
+
+body {background-color: plum;}
+
+.p1 {
+    font-size: 300%;
+    background-color: rgb(176, 176, 247);
+    color: darkslateblue;
+    text-align: center;
+    border-color: darkorchid;
+    border-width: 10px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.p2 { 
+    margin-top: 2%;
+    font-size: 200%;
+    text-align: center;
+    color: darkorchid;
+}
+
+.p3 { 
+    color: darkslateblue;
+    margin-top:  2%;
+    font-size: large;
+    background-color: rgb(176, 176, 247);
+    color: black;
+    text-align: center;
+    border-color: darkorchid;
+    border-width: 10px;
+    border-style: double;
+    margin-left: 60%;
+    margin-right: 12%;
+}
+
+.p4 { 
+    color: darkslateblue;
+    font-size: large;
+    background-color:rgb(176, 176, 247);
+    color: black;
+    text-align: center;
+    border-color: darkorchid;
+    border-width: 10px;
+    border-style: double;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+
+.p5 { 
+    margin-top: 2%;
+    font-size: 200%;
+    background-color: rgb(176, 176, 247);
+    color: darkslateblue;
+    text-align: center;
+    border-color: darkorchid;
+    border-width: 10px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+}
+
+
+
+@media only screen and (max-width: 800px)
+{
+
+body {background-color: rgb(124, 253, 124);}
+
+.p1 {
+    font-size: 300%;
+    background-color: rgb(176, 247, 180);
+    color: rgb(90, 139, 61);
+    text-align: center;
+    border-color: green;
+    border-width: 10px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.p2 { 
+    margin-top: 2%;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(90, 139, 61);
+}
+
+.p3 { 
+    color: green;
+    margin-top:  2%;
+    font-size: large;
+    background-color: rgb(176, 247, 180);
+    color: black;
+    text-align: center;
+    border-color: rgb(90, 139, 61);
+    border-width: 10px;
+    border-style: double;
+    margin-left: 60%;
+    margin-right: 12%;
+}
+
+.p4 { 
+    color: green;
+    font-size: large;
+    background-color:rgb(176, 247, 180);
+    color: black;
+    text-align: center;
+    border-color: rgb(90, 139, 61);
+    border-width: 10px;
+    border-style: double;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+
+.p5 { 
+    margin-top: 2%;
+    font-size: 200%;
+    background-color: rgb(176, 247, 180);
+    color: green;
+    text-align: center;
+    border-color: rgb(90, 139, 61);
+    border-width: 10px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+}
